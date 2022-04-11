@@ -1,0 +1,21 @@
+/*my custom styles*/
+
+.navBackground {
+    background-color: darkslategrey;
+}
+
+.navClass {
+    color: cadetblue;
+}
+
+body {
+    background-image: url(../assets/img/Oceanside .JPEG)
+}
+
+.photo {
+    min-height: 300px;
+}
+
+.aboutphoto {
+    max-height: 100px;
+}
